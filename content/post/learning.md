@@ -10,7 +10,7 @@ tags:
   - GitHub Pages
 description: "从零开始，用 Hugo 搭建并部署个人学术网站的完整教程。"
 cover: /images/learning.jpg
-draft: true
+draft: false
 ---
 
 小bug老师开课了，借助 [Hugo](https://gohugo.io/) 静态站点生成器搭建学术网页，整个流程其实非常简洁。本文记录了完整的搭建过程。
