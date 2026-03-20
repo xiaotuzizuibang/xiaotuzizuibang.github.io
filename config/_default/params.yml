@@ -19,7 +19,7 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: YOUR_NAME
+author: xiaotuzizuibang
 email: your@email.com
 description: "欢迎来到我的学术主页"
 subtitle:
@@ -74,7 +74,7 @@ sidebar:
     show_common: true
 
 social:
-  github: https://github.com/YOUR_USERNAME
+  github: https://github.com/xiaotuzizuibang
   # email: mailto:your@email.com
   # linkedin: https://www.linkedin.com/in/yourname
   # twitter: https://twitter.com/yourname
