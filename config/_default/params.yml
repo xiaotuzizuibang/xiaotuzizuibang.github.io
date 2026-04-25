@@ -9,6 +9,9 @@ menu:
   - name: archives
     url: "archives"
     icon:
+  - name: about
+    url: "about"
+    icon:
 
 mainSections: ["post"]
 yearFormat: "2006"
