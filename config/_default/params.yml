@@ -9,9 +9,6 @@ menu:
   - name: archives
     url: "archives"
     icon:
-  - name: about
-    url: "about"
-    icon:
 
 mainSections: ["post"]
 yearFormat: "2006"
@@ -21,13 +18,11 @@ timeFormat: "2006-01-02 15:04:05"
 
 author: xiaotuzizuibang
 email: your@email.com
-description: "欢迎来到我的学术主页"
+description: "欢迎来到我的主页"
 subtitle:
   typing:
-    enable: true
-    strings:
-      - 研究者 / Researcher
-      - 探索者 / Explorer
+    enable: false
+    strings: []
     typeSpeed: 100
     backSpeed: 50
     backDelay: 2000
@@ -37,7 +32,7 @@ subtitle:
     showCursor: true
     cursorChar: "|"
     smartBackspace: false
-  text: "欢迎来到我的学术主页"
+  text: ""
 
 banner: "images/banner.jpg"
 
