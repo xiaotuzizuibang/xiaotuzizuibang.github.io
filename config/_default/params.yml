@@ -39,7 +39,7 @@ subtitle:
     smartBackspace: false
   text: "欢迎来到我的学术主页"
 
-banner: "images/banner.webp"
+banner: "images/banner.jpg"
 
 banner_srcset:
   enable: false
