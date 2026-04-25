@@ -1,7 +1,7 @@
 baseURL = 'https://xiaotuzizuibang.github.io/'
 languageCode = 'zh-CN'
 defaultContentLanguage = 'zh-CN'
-title = '我的学术主页'
+title = '我的主页'
 theme = 'reimu'
 
 [languages]
