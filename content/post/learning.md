@@ -85,7 +85,8 @@ mkdir -p content/archives
 # 创建 archives/_index.md（主题归档页需要）
 
 # 新建一篇文章
-hugo new post/hello-world.md
+cd mysite # 一定要记得!!
+hugo new content/post/hello-world.md
 ```
 
 `content/post/_index.md` 必须存在且设为草稿（主题要求）：
