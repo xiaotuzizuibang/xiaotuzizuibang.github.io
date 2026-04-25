@@ -77,7 +77,7 @@ tagcloud_limits: 20
 only_show_capsule_in_index: false
 uppercase_capsule: true
 
-show_update_time: true
+show_update_time: false
 
 summary:
   enable: true
@@ -257,7 +257,7 @@ top:
     mask: true
 
 outdate:
-  enable: true
+  enable: false
   daysAgo: 365
   message:
     en: This article was last updated on {time}. Please note that the content may no longer be applicable.
