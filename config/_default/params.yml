@@ -22,20 +22,6 @@ timeFormat: "2006-01-02 15:04:05"
 author: xiaotuzizuibang
 email: your@email.com
 description: "欢迎来到我的主页"
-subtitle:
-  typing:
-    enable: false
-    strings: []
-    typeSpeed: 100
-    backSpeed: 50
-    backDelay: 2000
-    startDelay: 300
-    loop: true
-    shuffle: false
-    showCursor: true
-    cursorChar: "|"
-    smartBackspace: false
-  text: ""
 
 banner: "images/banner.jpg"
 
